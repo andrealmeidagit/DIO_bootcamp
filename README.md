@@ -7,7 +7,9 @@ Este é um repositório para salvar e gerenciar as versões das atividades do DI
 ### Este é um título nível 3
 
 **negrito**
+
 *itálico*
+
 ***negrito e itálico***
 
 > Estou aprendendo a editar documentos .md com o 
@@ -18,8 +20,8 @@ Este é um repositório para salvar e gerenciar as versões das atividades do DI
 	- muito mesmo
 
 1. melhor que eles
-	1.1. somente
-2. números
+2. somente
+3. números
 
 ---
 
